@@ -1,4 +1,4 @@
-# GTFS Schedule Dashboard (GO Transit + Metrolinx-Focused Project) 🚍📊
+# GTFS Schedule Dashboard (GO Transit Focused Project) 🚍📊
 
 This interactive dashboard was created as a **self-initiated project** to explore how GTFS (General Transit Feed Specification) data from **GO Transit** can support **transit scheduling**, **operational monitoring**, and **short-term planning** — key responsibilities for roles like the Junior Analyst (Operations Performance) at Metrolinx.
 
@@ -56,7 +56,7 @@ gtfs_dashboard_project/
 
 ## 🚀 Live App
 
-🔗 [Click here to view the live GTFS Schedule Dashboard](https://sanujav18-go-gtfs-schedule-dashboard.streamlit.app)
+🔗 [Click here to view the live GTFS Schedule Dashboard](https://go-gtfs-schedule-dashboard-bwwij7emkatezpytldm9es.streamlit.app/)
 
 Hosted on **Streamlit Cloud**.
 
