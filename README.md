@@ -73,6 +73,15 @@ This data includes schedule, route, stop, and service calendar information, made
 
 ---
 
+## 🤖 AI-Assisted Development
+
+This project was developed with significant assistance from **ChatGPT (OpenAI)**.  
+Most of the Python and Streamlit code, as well as GTFS parsing logic and deployment guidance, was generated through interactive prompts and iterative refinement using ChatGPT.  
+
+All final decisions, data interpretation, and structural choices were made by the author.
+
+---
+
 ## 🧑‍💻 About Me
 
 **Sanuja Senadeera**  
